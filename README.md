@@ -7,10 +7,10 @@ I made this remote control because two out of four in our house stopped working 
 ## The Original Remotes
 The original remotes look like this:
 <br>
-<img src="/Images/Public/External%20Front.jpg" height="600">
-<img src="/Images/Public/External%20Rear.jpg" height="600">
-<img src="/Images/Public/Original%20PCB%20Front.jpg" height="600">
-<img src="/Images/Public/Original%20PCB%20Rear.jpg" height="600">
+<img src="/Images/Public/External%20Front.jpg" width="350">
+<img src="/Images/Public/External%20Rear.jpg" width="350">
+<img src="/Images/Public/Original%20PCB%20Front.jpg" width="350">
+<img src="/Images/Public/Original%20PCB%20Rear.jpg" width="350">
 <br>
 
 They run 433 MHz transmitters and use a pair of AA batteries.
